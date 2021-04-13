@@ -1,0 +1,15 @@
+D:\sao luu\02192021\DocNet-T.Phương\supermarket270321\supermarket\server\SuperMarket.Core\bin\Debug\net5.0\SuperMarket.Core.deps.json
+D:\sao luu\02192021\DocNet-T.Phương\supermarket270321\supermarket\server\SuperMarket.Core\bin\Debug\net5.0\SuperMarket.Core.runtimeconfig.json
+D:\sao luu\02192021\DocNet-T.Phương\supermarket270321\supermarket\server\SuperMarket.Core\bin\Debug\net5.0\SuperMarket.Core.runtimeconfig.dev.json
+D:\sao luu\02192021\DocNet-T.Phương\supermarket270321\supermarket\server\SuperMarket.Core\bin\Debug\net5.0\SuperMarket.Core.dll
+D:\sao luu\02192021\DocNet-T.Phương\supermarket270321\supermarket\server\SuperMarket.Core\bin\Debug\net5.0\ref\SuperMarket.Core.dll
+D:\sao luu\02192021\DocNet-T.Phương\supermarket270321\supermarket\server\SuperMarket.Core\bin\Debug\net5.0\SuperMarket.Core.pdb
+D:\sao luu\02192021\DocNet-T.Phương\supermarket270321\supermarket\server\SuperMarket.Core\obj\Debug\net5.0\SuperMarket.Core.csprojAssemblyReference.cache
+D:\sao luu\02192021\DocNet-T.Phương\supermarket270321\supermarket\server\SuperMarket.Core\obj\Debug\net5.0\SuperMarket.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\sao luu\02192021\DocNet-T.Phương\supermarket270321\supermarket\server\SuperMarket.Core\obj\Debug\net5.0\SuperMarket.Core.AssemblyInfoInputs.cache
+D:\sao luu\02192021\DocNet-T.Phương\supermarket270321\supermarket\server\SuperMarket.Core\obj\Debug\net5.0\SuperMarket.Core.AssemblyInfo.cs
+D:\sao luu\02192021\DocNet-T.Phương\supermarket270321\supermarket\server\SuperMarket.Core\obj\Debug\net5.0\SuperMarket.Core.csproj.CoreCompileInputs.cache
+D:\sao luu\02192021\DocNet-T.Phương\supermarket270321\supermarket\server\SuperMarket.Core\obj\Debug\net5.0\SuperMarket.Core.dll
+D:\sao luu\02192021\DocNet-T.Phương\supermarket270321\supermarket\server\SuperMarket.Core\obj\Debug\net5.0\ref\SuperMarket.Core.dll
+D:\sao luu\02192021\DocNet-T.Phương\supermarket270321\supermarket\server\SuperMarket.Core\obj\Debug\net5.0\SuperMarket.Core.pdb
+D:\sao luu\02192021\DocNet-T.Phương\supermarket270321\supermarket\server\SuperMarket.Core\obj\Debug\net5.0\SuperMarket.Core.genruntimeconfig.cache
